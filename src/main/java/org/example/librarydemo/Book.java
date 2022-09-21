@@ -1,7 +1,6 @@
-package org.example;
+package org.example.librarydemo;
 
 import java.util.ArrayList;
-import org.example.Observer;
 
 
 public class Book implements SubjectLibrary {

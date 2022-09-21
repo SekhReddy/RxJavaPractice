@@ -1,4 +1,4 @@
-package org.example;
+package org.example.callbackdemo;
 
 public interface Callback {
 

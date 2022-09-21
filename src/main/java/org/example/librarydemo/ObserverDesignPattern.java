@@ -1,4 +1,4 @@
-package org.example;
+package org.example.librarydemo;
 
 public class ObserverDesignPattern {
     public static void main(String[] args) {

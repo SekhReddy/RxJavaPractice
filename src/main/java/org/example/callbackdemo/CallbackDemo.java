@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.Callback;
+package org.example.callbackdemo;
 
 public class CallbackDemo {
     public static void main(String[] args) throws InterruptedException {

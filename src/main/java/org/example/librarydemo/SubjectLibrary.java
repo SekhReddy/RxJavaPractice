@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.Observer;
+package org.example.librarydemo;
 
 public interface SubjectLibrary {
 

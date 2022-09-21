@@ -1,4 +1,4 @@
-package org.example;
+package org.example.librarydemo;
 
 public class EndUser implements Observer {
 
